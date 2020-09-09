@@ -1,2 +1,2 @@
 # calculator
-# a calculater program in python using given input
+# a calculater program in python 
